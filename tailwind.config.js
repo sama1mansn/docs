@@ -11,7 +11,7 @@ module.exports = {
       sm: "600px",
       md: "997px",
       lg: "1200px",
-      xl: "1536px",
+      xl: "1438px",
     },
     colors: {
       ...themeTw.theme.colors,
