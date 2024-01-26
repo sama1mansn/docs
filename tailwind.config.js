@@ -8,7 +8,7 @@ module.exports = {
     screens: {
       ...themeTw.theme.screens,
       xs: "320px",
-      sm: "600px",
+      sm: "900px",
       md: "997px",
       lg: "1200px",
       xl: "1536px",
